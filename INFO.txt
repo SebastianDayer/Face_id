@@ -1,0 +1,2 @@
+https://github.com/tensorflow/tensorflow/blob/master/README.md
+https://www.tensorflow.org/tutorials
