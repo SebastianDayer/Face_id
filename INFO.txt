@@ -1,3 +1,4 @@
 https://github.com/tensorflow/tensorflow/blob/master/README.md
 https://www.tensorflow.org/tutorials
 https://keras.io/api/layers/base_layer/
+https://hackernoon.com/5-million-face-images-for-facial-recognition-model-training-295v3zup
