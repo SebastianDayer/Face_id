@@ -27,7 +27,7 @@ def capture_photos(name):
             print('Not able to read frame. End.')
             break
         
-        frame2 = cv2.GaussianBlur(frame, (31, 31), 0)
+        frame2 = cv2.GaussianBlur(frame, (1, 1), 0)
 
         combinedImages = np.hstack((frame, frame2))
 
